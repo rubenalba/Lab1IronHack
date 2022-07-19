@@ -73,4 +73,26 @@ a{
     /* background-color: red; */
     display: flex;
     justify-content: space-around;
+    margin-bottom: 5em;
+    margin-top: 5em;
+}
+
+/* .parners img{
+    width: 1em;
+} */
+
+.projects{
+    display: flex;
+    justify-content: space-around;
+}
+.card{
+    
+    background-color: red;
+    margin-right: 1em;
+    margin-left: 1em;
+    
+}
+
+.card div{
+    
 }
